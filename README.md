@@ -9,8 +9,8 @@ Help user to pay more attention on articles !
 Create a file named .env and structed as following.
 ```python
 #.env
-API_KEY="{ Reply this with your API key from openai }"
-ARTICLE="UCE {your alticle title}" 
+API_KEY="{ Replace here with your own API key from openai }"
+ARTICLE="{your alticle title}" 
 OUTPUT = "./output"
 INPUT="./input"
 ```
